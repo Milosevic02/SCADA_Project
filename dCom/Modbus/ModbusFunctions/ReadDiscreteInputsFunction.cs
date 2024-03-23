@@ -7,6 +7,7 @@ using System.Reflection;
 
 namespace Modbus.ModbusFunctions
 {
+    //Digital Input
     /// <summary>
     /// Class containing logic for parsing and packing modbus read discrete inputs functions/requests.
     /// </summary>
