@@ -7,6 +7,7 @@ using System.Reflection;
 
 namespace Modbus.ModbusFunctions
 {
+    //Analog Output
     /// <summary>
     /// Class containing logic for parsing and packing modbus write single register functions/requests.
     /// </summary>
